@@ -1,6 +1,6 @@
 # Worm
 
-This project creates Threads and creates two other Threads in this one, and all this in a loop until the PC's RAM is full.
+This project creates Threads and creates two other Threads in this one, and all this in a loop until the PC's RAM is full. 
 
 ## :warning: DISCLAIMER : I am not responsible for any illegal acts you may commit with this code.
 
